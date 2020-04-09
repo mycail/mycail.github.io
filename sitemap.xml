@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mycail.dev/categories/</loc>
+    <loc>http://mycail.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>https://mycail.dev/</loc>
+    <loc>http://mycail.dev/</loc>
   </url>
   
   <url>
-    <loc>https://mycail.dev/tags/</loc>
+    <loc>http://mycail.dev/tags/</loc>
   </url>
   
 </urlset>
